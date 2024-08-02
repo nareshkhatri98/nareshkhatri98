@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nareshkhatri98&label=Profile%20views&color=0e75b6&style=flat" alt="nareshkhatri98" /> </p>
-  <h1> <a href="https://nareshkhatri98.github.io/portfolio/">portfolio</a></h1>
+  <h1> <a href="https://nareshkhatri98.github.io/portfolio/">PortFolio</a></h1>
 - 🌱 I’m currently learning ** Python**
 
 - 📫 How to reach me **nareshkhatri9810@gmail.com**
