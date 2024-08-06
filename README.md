@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nareshkhatri98&label=Profile%20views&color=0e75b6&style=flat" alt="nareshkhatri98" /> </p>
   <h1> <a href="https://nareshkhatri98.github.io/portfolio/">PortFolio</a></h1>
-- 🌱 I’m currently learning ** Python**
+- 🌱 I’m currently learning ** Frontend**
 
 - 📫 How to reach me **nareshkhatri9810@gmail.com**
 
